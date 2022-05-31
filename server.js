@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 app.get('/', (req, res) => {
-    res.send('Hello world Testing Node EB Github!')
+    res.send('Hello world Testing Node EB Github Update CI/CD!')
 })
 
 
